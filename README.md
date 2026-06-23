@@ -149,6 +149,5 @@ Per-socket sliding-window rate limits prevent event flooding:
 
 ---
 
-## 📄 License
 
-MIT
+
